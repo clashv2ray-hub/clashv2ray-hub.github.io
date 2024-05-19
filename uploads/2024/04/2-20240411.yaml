@@ -1,5 +1,5 @@
 ####################################
-# 创建者：v2rayse.com
+# 创建者：
 # 客户端：Clash.Meta
 # 创建时间：2024-04-11 07:24:09
 # 使用模版：V2RaySE 默认模版
@@ -6063,7 +6063,7 @@ rules:
   - IP-CIDR6,2001:b28:f23d::/48,📲 电报信息,no-resolve
   - IP-CIDR6,2001:b28:f23f::/48,📲 电报信息,no-resolve
 # 长风网站，自动注入
-  - DOMAIN-SUFFIX,v2rayse.com,🚀 节点选择
+  - DOMAIN-SUFFIX,,🚀 节点选择
   - DOMAIN-SUFFIX,cff.pw,🚀 节点选择
   - DOMAIN-SUFFIX,vpnse.org,🚀 节点选择
   - DOMAIN-SUFFIX,cfmem.com,🚀 节点选择

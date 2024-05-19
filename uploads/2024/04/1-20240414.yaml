@@ -5,223 +5,223 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 美国(yudou66.com 玉豆免费节点), server: 192.74.241.174, port: 38000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.26559642.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 2, server: 148.135.31.51, port: 31000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.95683672.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 3, server: 192.74.241.174, port: 38000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.26559642.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 4, server: 192.74.241.174, port: 38000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.26559642.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 5, server: 172.111.57.100, port: 32001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.53136553.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 6, server: 148.135.12.174, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.15986187.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 7, server: 148.135.31.36, port: 37000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.72801237.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 8, server: 148.135.75.59, port: 31001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.32497476.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 9, server: 192.74.240.250, port: 38001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.93326012.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 10, server: 172.111.57.17, port: 31000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.21463847.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 11, server: 148.135.9.66, port: 31000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.69555583.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 12, server: 192.74.240.250, port: 38001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.93326012.xyz}, udp: true}
-  - {name: 英国(yudou66.com 玉豆免费节点), server: cdn.vds-server.ir, port: 8880, type: vmess, uuid: 0d1bf26a-ce97-4707-a270-7f4d2ae37334, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: cdn.vds-server.ir}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 13, server: 148.135.31.51, port: 31000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.95683672.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 14, server: data-us-v1.shwjfkw.cn, port: 20401, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /debian, ws-headers: {Host: data-us-v1.shwjfkw.cn}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 15, server: 172.111.57.74, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.75116565.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 16, server: 148.135.31.51, port: 31000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.95683672.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 17, server: 148.135.9.66, port: 31000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.69555583.xyz}, udp: true}
-  - {name: 法国(yudou66.com 玉豆免费节点), server: admin.arzonhost.ir, port: 2086, type: vmess, uuid: 7d93e992-48cf-42d4-84f8-75768e815a4c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: admin.arzonhost.ir}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 18, server: 172.111.57.140, port: 31001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.88268904.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 19, server: 148.135.75.59, port: 31001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.32497476.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 20, server: 172.111.57.100, port: 32001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.53136553.xyz}, udp: true}
-  - {name: 俄罗斯(yudou66.com 玉豆免费节点), server: ru01.freeflyingcloud.xyz, port: 30002, type: trojan, password: 99c36038-8c1f-44cb-8463-c9c555e80b58, sni: ru01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 21, server: 148.135.33.228, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.60988297.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 22, server: 148.135.33.228, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.60988297.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 23, server: 148.135.33.228, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.60988297.xyz}, udp: true}
-  - {name: 俄罗斯(yudou66.com 玉豆免费节点) 2, server: 172.67.204.84, port: 443, type: trojan, password: qj1Dz1CJmFQRhWr1SP80aA, skip-cert-verify: true, udp: true}
-  - {name: 荷兰(yudou66.com 玉豆免费节点), server: 88.210.6.98, port: 60869, type: ss, cipher: chacha20-ietf-poly1305, password: lPT3Mi25IXYP3iWzPJaryQ, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 24, server: 167.88.61.159, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 25, server: 137.175.39.217, port: 39000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.79302426.xyz}, udp: true}
-  - {name: 新加坡(yudou66.com 玉豆免费节点), server: fcdn.flha.ru, port: 2095, type: vmess, uuid: 7a737f41-b792-4260-94ff-3d864da67b80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: fcdn.flha.ru}, udp: true}
-  - {name: 英国(yudou66.com 玉豆免费节点) 2, server: mizban.arzonhost.ir, port: 2086, type: vmess, uuid: e690ff9e-1676-4be3-d136-dcae586cb1e7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: mizban.arzonhost.ir}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 26, server: 172.111.57.140, port: 31001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.88268904.xyz}, udp: true}
-  - {name: 法国(yudou66.com 玉豆免费节点) 2, server: 94.140.0.110, port: 8880, type: vmess, uuid: 0d1bf26a-ce97-4707-a270-7f4d2ae37334, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: food.zhaal.ir}, udp: true}
-  - {name: 法国(yudou66.com 玉豆免费节点) 3, server: 104.21.4.14, port: 2086, type: vmess, uuid: 7d93e992-48cf-42d4-84f8-75768e815a4c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: admin.arzonhost.ir}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 27, server: 148.135.9.66, port: 31000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.69555583.xyz}, udp: true}
-  - {name: 新加坡(yudou66.com 玉豆免费节点) 2, server: fcdn.flha.ru, port: 2095, type: vmess, uuid: 7a737f41-b792-4260-94ff-3d864da67b80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: fcdn.flha.ru}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 28, server: 108.186.31.108, port: 37000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/020313022226, ws-headers: {Host: www.63763079.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 29, server: 148.135.31.36, port: 37000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.72801237.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 30, server: 148.135.31.36, port: 37000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712489618770, ws-headers: {Host: www.72801237.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 31, server: 46.182.107.23, port: 41000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.26595897.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 32, server: 46.182.107.23, port: 41000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.26595897.xyz}, udp: true}
-  - {name: 法国(yudou66.com 玉豆免费节点) 4, server: 172.67.223.242, port: 2086, type: vmess, uuid: 7d93e992-48cf-42d4-84f8-75768e815a4c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: admin.arzonhost.ir}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 33, server: 172.111.57.37, port: 31000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712489618770, ws-headers: {Host: www.13861936.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 34, server: 46.182.107.56, port: 41001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.63929391.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 35, server: 192.74.240.250, port: 38001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.93326012.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 36, server: data-jp-v1.usabooks.com.cn, port: 20301, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /debian, ws-headers: {Host: data-jp-v1.usabooks.com.cn}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 37, server: 46.182.107.56, port: 41001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.63929391.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 38, server: 46.182.107.56, port: 41001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.63929391.xyz}, udp: true}
-  - {name: 美国(yudou66.com 玉豆免费节点) 39, server: 120.233.42.83, port: 20207, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /debian, ws-headers: {Host: data-hk-v1.shwjfkw.cn}, udp: true}
+  - {name: 美国(), server: 192.74.241.174, port: 38000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.26559642.xyz}, udp: true}
+  - {name: 美国() 2, server: 148.135.31.51, port: 31000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.95683672.xyz}, udp: true}
+  - {name: 美国() 3, server: 192.74.241.174, port: 38000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.26559642.xyz}, udp: true}
+  - {name: 美国() 4, server: 192.74.241.174, port: 38000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.26559642.xyz}, udp: true}
+  - {name: 美国() 5, server: 172.111.57.100, port: 32001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.53136553.xyz}, udp: true}
+  - {name: 美国() 6, server: 148.135.12.174, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.15986187.xyz}, udp: true}
+  - {name: 美国() 7, server: 148.135.31.36, port: 37000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.72801237.xyz}, udp: true}
+  - {name: 美国() 8, server: 148.135.75.59, port: 31001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.32497476.xyz}, udp: true}
+  - {name: 美国() 9, server: 192.74.240.250, port: 38001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.93326012.xyz}, udp: true}
+  - {name: 美国() 10, server: 172.111.57.17, port: 31000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.21463847.xyz}, udp: true}
+  - {name: 美国() 11, server: 148.135.9.66, port: 31000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.69555583.xyz}, udp: true}
+  - {name: 美国() 12, server: 192.74.240.250, port: 38001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.93326012.xyz}, udp: true}
+  - {name: 英国(), server: cdn.vds-server.ir, port: 8880, type: vmess, uuid: 0d1bf26a-ce97-4707-a270-7f4d2ae37334, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: cdn.vds-server.ir}, udp: true}
+  - {name: 美国() 13, server: 148.135.31.51, port: 31000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.95683672.xyz}, udp: true}
+  - {name: 美国() 14, server: data-us-v1.shwjfkw.cn, port: 20401, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /debian, ws-headers: {Host: data-us-v1.shwjfkw.cn}, udp: true}
+  - {name: 美国() 15, server: 172.111.57.74, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.75116565.xyz}, udp: true}
+  - {name: 美国() 16, server: 148.135.31.51, port: 31000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.95683672.xyz}, udp: true}
+  - {name: 美国() 17, server: 148.135.9.66, port: 31000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.69555583.xyz}, udp: true}
+  - {name: 法国(), server: admin.arzonhost.ir, port: 2086, type: vmess, uuid: 7d93e992-48cf-42d4-84f8-75768e815a4c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: admin.arzonhost.ir}, udp: true}
+  - {name: 美国() 18, server: 172.111.57.140, port: 31001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.88268904.xyz}, udp: true}
+  - {name: 美国() 19, server: 148.135.75.59, port: 31001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.32497476.xyz}, udp: true}
+  - {name: 美国() 20, server: 172.111.57.100, port: 32001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.53136553.xyz}, udp: true}
+  - {name: 俄罗斯(), server: ru01.freeflyingcloud.xyz, port: 30002, type: trojan, password: 99c36038-8c1f-44cb-8463-c9c555e80b58, sni: ru01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+  - {name: 美国() 21, server: 148.135.33.228, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.60988297.xyz}, udp: true}
+  - {name: 美国() 22, server: 148.135.33.228, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.60988297.xyz}, udp: true}
+  - {name: 美国() 23, server: 148.135.33.228, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.60988297.xyz}, udp: true}
+  - {name: 俄罗斯() 2, server: 172.67.204.84, port: 443, type: trojan, password: qj1Dz1CJmFQRhWr1SP80aA, skip-cert-verify: true, udp: true}
+  - {name: 荷兰(), server: 88.210.6.98, port: 60869, type: ss, cipher: chacha20-ietf-poly1305, password: lPT3Mi25IXYP3iWzPJaryQ, udp: true}
+  - {name: 美国() 24, server: 167.88.61.159, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, udp: true}
+  - {name: 美国() 25, server: 137.175.39.217, port: 39000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.79302426.xyz}, udp: true}
+  - {name: 新加坡(), server: fcdn.flha.ru, port: 2095, type: vmess, uuid: 7a737f41-b792-4260-94ff-3d864da67b80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: fcdn.flha.ru}, udp: true}
+  - {name: 英国() 2, server: mizban.arzonhost.ir, port: 2086, type: vmess, uuid: e690ff9e-1676-4be3-d136-dcae586cb1e7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: mizban.arzonhost.ir}, udp: true}
+  - {name: 美国() 26, server: 172.111.57.140, port: 31001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.88268904.xyz}, udp: true}
+  - {name: 法国() 2, server: 94.140.0.110, port: 8880, type: vmess, uuid: 0d1bf26a-ce97-4707-a270-7f4d2ae37334, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: food.zhaal.ir}, udp: true}
+  - {name: 法国() 3, server: 104.21.4.14, port: 2086, type: vmess, uuid: 7d93e992-48cf-42d4-84f8-75768e815a4c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: admin.arzonhost.ir}, udp: true}
+  - {name: 美国() 27, server: 148.135.9.66, port: 31000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.69555583.xyz}, udp: true}
+  - {name: 新加坡() 2, server: fcdn.flha.ru, port: 2095, type: vmess, uuid: 7a737f41-b792-4260-94ff-3d864da67b80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: fcdn.flha.ru}, udp: true}
+  - {name: 美国() 28, server: 108.186.31.108, port: 37000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/020313022226, ws-headers: {Host: www.63763079.xyz}, udp: true}
+  - {name: 美国() 29, server: 148.135.31.36, port: 37000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.72801237.xyz}, udp: true}
+  - {name: 美国() 30, server: 148.135.31.36, port: 37000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712489618770, ws-headers: {Host: www.72801237.xyz}, udp: true}
+  - {name: 美国() 31, server: 46.182.107.23, port: 41000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.26595897.xyz}, udp: true}
+  - {name: 美国() 32, server: 46.182.107.23, port: 41000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.26595897.xyz}, udp: true}
+  - {name: 法国() 4, server: 172.67.223.242, port: 2086, type: vmess, uuid: 7d93e992-48cf-42d4-84f8-75768e815a4c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: admin.arzonhost.ir}, udp: true}
+  - {name: 美国() 33, server: 172.111.57.37, port: 31000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712489618770, ws-headers: {Host: www.13861936.xyz}, udp: true}
+  - {name: 美国() 34, server: 46.182.107.56, port: 41001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.63929391.xyz}, udp: true}
+  - {name: 美国() 35, server: 192.74.240.250, port: 38001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712753281459, ws-headers: {Host: www.93326012.xyz}, udp: true}
+  - {name: 美国() 36, server: data-jp-v1.usabooks.com.cn, port: 20301, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /debian, ws-headers: {Host: data-jp-v1.usabooks.com.cn}, udp: true}
+  - {name: 美国() 37, server: 46.182.107.56, port: 41001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712664711408, ws-headers: {Host: www.63929391.xyz}, udp: true}
+  - {name: 美国() 38, server: 46.182.107.56, port: 41001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/1712835355856, ws-headers: {Host: www.63929391.xyz}, udp: true}
+  - {name: 美国() 39, server: 120.233.42.83, port: 20207, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /debian, ws-headers: {Host: data-hk-v1.shwjfkw.cn}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 美国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 3
-      - 美国(yudou66.com 玉豆免费节点) 4
-      - 美国(yudou66.com 玉豆免费节点) 5
-      - 美国(yudou66.com 玉豆免费节点) 6
-      - 美国(yudou66.com 玉豆免费节点) 7
-      - 美国(yudou66.com 玉豆免费节点) 8
-      - 美国(yudou66.com 玉豆免费节点) 9
-      - 美国(yudou66.com 玉豆免费节点) 10
-      - 美国(yudou66.com 玉豆免费节点) 11
-      - 美国(yudou66.com 玉豆免费节点) 12
-      - 英国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 13
-      - 美国(yudou66.com 玉豆免费节点) 14
-      - 美国(yudou66.com 玉豆免费节点) 15
-      - 美国(yudou66.com 玉豆免费节点) 16
-      - 美国(yudou66.com 玉豆免费节点) 17
-      - 法国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 18
-      - 美国(yudou66.com 玉豆免费节点) 19
-      - 美国(yudou66.com 玉豆免费节点) 20
-      - 俄罗斯(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 21
-      - 美国(yudou66.com 玉豆免费节点) 22
-      - 美国(yudou66.com 玉豆免费节点) 23
-      - 俄罗斯(yudou66.com 玉豆免费节点) 2
-      - 荷兰(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 24
-      - 美国(yudou66.com 玉豆免费节点) 25
-      - 新加坡(yudou66.com 玉豆免费节点)
-      - 英国(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 26
-      - 法国(yudou66.com 玉豆免费节点) 2
-      - 法国(yudou66.com 玉豆免费节点) 3
-      - 美国(yudou66.com 玉豆免费节点) 27
-      - 新加坡(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 28
-      - 美国(yudou66.com 玉豆免费节点) 29
-      - 美国(yudou66.com 玉豆免费节点) 30
-      - 美国(yudou66.com 玉豆免费节点) 31
-      - 美国(yudou66.com 玉豆免费节点) 32
-      - 法国(yudou66.com 玉豆免费节点) 4
-      - 美国(yudou66.com 玉豆免费节点) 33
-      - 美国(yudou66.com 玉豆免费节点) 34
-      - 美国(yudou66.com 玉豆免费节点) 35
-      - 美国(yudou66.com 玉豆免费节点) 36
-      - 美国(yudou66.com 玉豆免费节点) 37
-      - 美国(yudou66.com 玉豆免费节点) 38
-      - 美国(yudou66.com 玉豆免费节点) 39
+      - 美国()
+      - 美国() 2
+      - 美国() 3
+      - 美国() 4
+      - 美国() 5
+      - 美国() 6
+      - 美国() 7
+      - 美国() 8
+      - 美国() 9
+      - 美国() 10
+      - 美国() 11
+      - 美国() 12
+      - 英国()
+      - 美国() 13
+      - 美国() 14
+      - 美国() 15
+      - 美国() 16
+      - 美国() 17
+      - 法国()
+      - 美国() 18
+      - 美国() 19
+      - 美国() 20
+      - 俄罗斯()
+      - 美国() 21
+      - 美国() 22
+      - 美国() 23
+      - 俄罗斯() 2
+      - 荷兰()
+      - 美国() 24
+      - 美国() 25
+      - 新加坡()
+      - 英国() 2
+      - 美国() 26
+      - 法国() 2
+      - 法国() 3
+      - 美国() 27
+      - 新加坡() 2
+      - 美国() 28
+      - 美国() 29
+      - 美国() 30
+      - 美国() 31
+      - 美国() 32
+      - 法国() 4
+      - 美国() 33
+      - 美国() 34
+      - 美国() 35
+      - 美国() 36
+      - 美国() 37
+      - 美国() 38
+      - 美国() 39
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 美国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 3
-      - 美国(yudou66.com 玉豆免费节点) 4
-      - 美国(yudou66.com 玉豆免费节点) 5
-      - 美国(yudou66.com 玉豆免费节点) 6
-      - 美国(yudou66.com 玉豆免费节点) 7
-      - 美国(yudou66.com 玉豆免费节点) 8
-      - 美国(yudou66.com 玉豆免费节点) 9
-      - 美国(yudou66.com 玉豆免费节点) 10
-      - 美国(yudou66.com 玉豆免费节点) 11
-      - 美国(yudou66.com 玉豆免费节点) 12
-      - 英国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 13
-      - 美国(yudou66.com 玉豆免费节点) 14
-      - 美国(yudou66.com 玉豆免费节点) 15
-      - 美国(yudou66.com 玉豆免费节点) 16
-      - 美国(yudou66.com 玉豆免费节点) 17
-      - 法国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 18
-      - 美国(yudou66.com 玉豆免费节点) 19
-      - 美国(yudou66.com 玉豆免费节点) 20
-      - 俄罗斯(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 21
-      - 美国(yudou66.com 玉豆免费节点) 22
-      - 美国(yudou66.com 玉豆免费节点) 23
-      - 俄罗斯(yudou66.com 玉豆免费节点) 2
-      - 荷兰(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 24
-      - 美国(yudou66.com 玉豆免费节点) 25
-      - 新加坡(yudou66.com 玉豆免费节点)
-      - 英国(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 26
-      - 法国(yudou66.com 玉豆免费节点) 2
-      - 法国(yudou66.com 玉豆免费节点) 3
-      - 美国(yudou66.com 玉豆免费节点) 27
-      - 新加坡(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 28
-      - 美国(yudou66.com 玉豆免费节点) 29
-      - 美国(yudou66.com 玉豆免费节点) 30
-      - 美国(yudou66.com 玉豆免费节点) 31
-      - 美国(yudou66.com 玉豆免费节点) 32
-      - 法国(yudou66.com 玉豆免费节点) 4
-      - 美国(yudou66.com 玉豆免费节点) 33
-      - 美国(yudou66.com 玉豆免费节点) 34
-      - 美国(yudou66.com 玉豆免费节点) 35
-      - 美国(yudou66.com 玉豆免费节点) 36
-      - 美国(yudou66.com 玉豆免费节点) 37
-      - 美国(yudou66.com 玉豆免费节点) 38
-      - 美国(yudou66.com 玉豆免费节点) 39
+      - 美国()
+      - 美国() 2
+      - 美国() 3
+      - 美国() 4
+      - 美国() 5
+      - 美国() 6
+      - 美国() 7
+      - 美国() 8
+      - 美国() 9
+      - 美国() 10
+      - 美国() 11
+      - 美国() 12
+      - 英国()
+      - 美国() 13
+      - 美国() 14
+      - 美国() 15
+      - 美国() 16
+      - 美国() 17
+      - 法国()
+      - 美国() 18
+      - 美国() 19
+      - 美国() 20
+      - 俄罗斯()
+      - 美国() 21
+      - 美国() 22
+      - 美国() 23
+      - 俄罗斯() 2
+      - 荷兰()
+      - 美国() 24
+      - 美国() 25
+      - 新加坡()
+      - 英国() 2
+      - 美国() 26
+      - 法国() 2
+      - 法国() 3
+      - 美国() 27
+      - 新加坡() 2
+      - 美国() 28
+      - 美国() 29
+      - 美国() 30
+      - 美国() 31
+      - 美国() 32
+      - 法国() 4
+      - 美国() 33
+      - 美国() 34
+      - 美国() 35
+      - 美国() 36
+      - 美国() 37
+      - 美国() 38
+      - 美国() 39
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 美国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 3
-      - 美国(yudou66.com 玉豆免费节点) 4
-      - 美国(yudou66.com 玉豆免费节点) 5
-      - 美国(yudou66.com 玉豆免费节点) 6
-      - 美国(yudou66.com 玉豆免费节点) 7
-      - 美国(yudou66.com 玉豆免费节点) 8
-      - 美国(yudou66.com 玉豆免费节点) 9
-      - 美国(yudou66.com 玉豆免费节点) 10
-      - 美国(yudou66.com 玉豆免费节点) 11
-      - 美国(yudou66.com 玉豆免费节点) 12
-      - 英国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 13
-      - 美国(yudou66.com 玉豆免费节点) 14
-      - 美国(yudou66.com 玉豆免费节点) 15
-      - 美国(yudou66.com 玉豆免费节点) 16
-      - 美国(yudou66.com 玉豆免费节点) 17
-      - 法国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 18
-      - 美国(yudou66.com 玉豆免费节点) 19
-      - 美国(yudou66.com 玉豆免费节点) 20
-      - 俄罗斯(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 21
-      - 美国(yudou66.com 玉豆免费节点) 22
-      - 美国(yudou66.com 玉豆免费节点) 23
-      - 俄罗斯(yudou66.com 玉豆免费节点) 2
-      - 荷兰(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 24
-      - 美国(yudou66.com 玉豆免费节点) 25
-      - 新加坡(yudou66.com 玉豆免费节点)
-      - 英国(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 26
-      - 法国(yudou66.com 玉豆免费节点) 2
-      - 法国(yudou66.com 玉豆免费节点) 3
-      - 美国(yudou66.com 玉豆免费节点) 27
-      - 新加坡(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 28
-      - 美国(yudou66.com 玉豆免费节点) 29
-      - 美国(yudou66.com 玉豆免费节点) 30
-      - 美国(yudou66.com 玉豆免费节点) 31
-      - 美国(yudou66.com 玉豆免费节点) 32
-      - 法国(yudou66.com 玉豆免费节点) 4
-      - 美国(yudou66.com 玉豆免费节点) 33
-      - 美国(yudou66.com 玉豆免费节点) 34
-      - 美国(yudou66.com 玉豆免费节点) 35
-      - 美国(yudou66.com 玉豆免费节点) 36
-      - 美国(yudou66.com 玉豆免费节点) 37
-      - 美国(yudou66.com 玉豆免费节点) 38
-      - 美国(yudou66.com 玉豆免费节点) 39
+      - 美国()
+      - 美国() 2
+      - 美国() 3
+      - 美国() 4
+      - 美国() 5
+      - 美国() 6
+      - 美国() 7
+      - 美国() 8
+      - 美国() 9
+      - 美国() 10
+      - 美国() 11
+      - 美国() 12
+      - 英国()
+      - 美国() 13
+      - 美国() 14
+      - 美国() 15
+      - 美国() 16
+      - 美国() 17
+      - 法国()
+      - 美国() 18
+      - 美国() 19
+      - 美国() 20
+      - 俄罗斯()
+      - 美国() 21
+      - 美国() 22
+      - 美国() 23
+      - 俄罗斯() 2
+      - 荷兰()
+      - 美国() 24
+      - 美国() 25
+      - 新加坡()
+      - 英国() 2
+      - 美国() 26
+      - 法国() 2
+      - 法国() 3
+      - 美国() 27
+      - 新加坡() 2
+      - 美国() 28
+      - 美国() 29
+      - 美国() 30
+      - 美国() 31
+      - 美国() 32
+      - 法国() 4
+      - 美国() 33
+      - 美国() 34
+      - 美国() 35
+      - 美国() 36
+      - 美国() 37
+      - 美国() 38
+      - 美国() 39
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -240,56 +240,56 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 美国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 3
-      - 美国(yudou66.com 玉豆免费节点) 4
-      - 美国(yudou66.com 玉豆免费节点) 5
-      - 美国(yudou66.com 玉豆免费节点) 6
-      - 美国(yudou66.com 玉豆免费节点) 7
-      - 美国(yudou66.com 玉豆免费节点) 8
-      - 美国(yudou66.com 玉豆免费节点) 9
-      - 美国(yudou66.com 玉豆免费节点) 10
-      - 美国(yudou66.com 玉豆免费节点) 11
-      - 美国(yudou66.com 玉豆免费节点) 12
-      - 英国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 13
-      - 美国(yudou66.com 玉豆免费节点) 14
-      - 美国(yudou66.com 玉豆免费节点) 15
-      - 美国(yudou66.com 玉豆免费节点) 16
-      - 美国(yudou66.com 玉豆免费节点) 17
-      - 法国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 18
-      - 美国(yudou66.com 玉豆免费节点) 19
-      - 美国(yudou66.com 玉豆免费节点) 20
-      - 俄罗斯(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 21
-      - 美国(yudou66.com 玉豆免费节点) 22
-      - 美国(yudou66.com 玉豆免费节点) 23
-      - 俄罗斯(yudou66.com 玉豆免费节点) 2
-      - 荷兰(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 24
-      - 美国(yudou66.com 玉豆免费节点) 25
-      - 新加坡(yudou66.com 玉豆免费节点)
-      - 英国(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 26
-      - 法国(yudou66.com 玉豆免费节点) 2
-      - 法国(yudou66.com 玉豆免费节点) 3
-      - 美国(yudou66.com 玉豆免费节点) 27
-      - 新加坡(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 28
-      - 美国(yudou66.com 玉豆免费节点) 29
-      - 美国(yudou66.com 玉豆免费节点) 30
-      - 美国(yudou66.com 玉豆免费节点) 31
-      - 美国(yudou66.com 玉豆免费节点) 32
-      - 法国(yudou66.com 玉豆免费节点) 4
-      - 美国(yudou66.com 玉豆免费节点) 33
-      - 美国(yudou66.com 玉豆免费节点) 34
-      - 美国(yudou66.com 玉豆免费节点) 35
-      - 美国(yudou66.com 玉豆免费节点) 36
-      - 美国(yudou66.com 玉豆免费节点) 37
-      - 美国(yudou66.com 玉豆免费节点) 38
-      - 美国(yudou66.com 玉豆免费节点) 39
+      - 美国()
+      - 美国() 2
+      - 美国() 3
+      - 美国() 4
+      - 美国() 5
+      - 美国() 6
+      - 美国() 7
+      - 美国() 8
+      - 美国() 9
+      - 美国() 10
+      - 美国() 11
+      - 美国() 12
+      - 英国()
+      - 美国() 13
+      - 美国() 14
+      - 美国() 15
+      - 美国() 16
+      - 美国() 17
+      - 法国()
+      - 美国() 18
+      - 美国() 19
+      - 美国() 20
+      - 俄罗斯()
+      - 美国() 21
+      - 美国() 22
+      - 美国() 23
+      - 俄罗斯() 2
+      - 荷兰()
+      - 美国() 24
+      - 美国() 25
+      - 新加坡()
+      - 英国() 2
+      - 美国() 26
+      - 法国() 2
+      - 法国() 3
+      - 美国() 27
+      - 新加坡() 2
+      - 美国() 28
+      - 美国() 29
+      - 美国() 30
+      - 美国() 31
+      - 美国() 32
+      - 法国() 4
+      - 美国() 33
+      - 美国() 34
+      - 美国() 35
+      - 美国() 36
+      - 美国() 37
+      - 美国() 38
+      - 美国() 39
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -300,167 +300,167 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - 美国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 3
-      - 美国(yudou66.com 玉豆免费节点) 4
-      - 美国(yudou66.com 玉豆免费节点) 5
-      - 美国(yudou66.com 玉豆免费节点) 6
-      - 美国(yudou66.com 玉豆免费节点) 7
-      - 美国(yudou66.com 玉豆免费节点) 8
-      - 美国(yudou66.com 玉豆免费节点) 9
-      - 美国(yudou66.com 玉豆免费节点) 10
-      - 美国(yudou66.com 玉豆免费节点) 11
-      - 美国(yudou66.com 玉豆免费节点) 12
-      - 英国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 13
-      - 美国(yudou66.com 玉豆免费节点) 14
-      - 美国(yudou66.com 玉豆免费节点) 15
-      - 美国(yudou66.com 玉豆免费节点) 16
-      - 美国(yudou66.com 玉豆免费节点) 17
-      - 法国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 18
-      - 美国(yudou66.com 玉豆免费节点) 19
-      - 美国(yudou66.com 玉豆免费节点) 20
-      - 俄罗斯(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 21
-      - 美国(yudou66.com 玉豆免费节点) 22
-      - 美国(yudou66.com 玉豆免费节点) 23
-      - 俄罗斯(yudou66.com 玉豆免费节点) 2
-      - 荷兰(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 24
-      - 美国(yudou66.com 玉豆免费节点) 25
-      - 新加坡(yudou66.com 玉豆免费节点)
-      - 英国(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 26
-      - 法国(yudou66.com 玉豆免费节点) 2
-      - 法国(yudou66.com 玉豆免费节点) 3
-      - 美国(yudou66.com 玉豆免费节点) 27
-      - 新加坡(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 28
-      - 美国(yudou66.com 玉豆免费节点) 29
-      - 美国(yudou66.com 玉豆免费节点) 30
-      - 美国(yudou66.com 玉豆免费节点) 31
-      - 美国(yudou66.com 玉豆免费节点) 32
-      - 法国(yudou66.com 玉豆免费节点) 4
-      - 美国(yudou66.com 玉豆免费节点) 33
-      - 美国(yudou66.com 玉豆免费节点) 34
-      - 美国(yudou66.com 玉豆免费节点) 35
-      - 美国(yudou66.com 玉豆免费节点) 36
-      - 美国(yudou66.com 玉豆免费节点) 37
-      - 美国(yudou66.com 玉豆免费节点) 38
-      - 美国(yudou66.com 玉豆免费节点) 39
+      - 美国()
+      - 美国() 2
+      - 美国() 3
+      - 美国() 4
+      - 美国() 5
+      - 美国() 6
+      - 美国() 7
+      - 美国() 8
+      - 美国() 9
+      - 美国() 10
+      - 美国() 11
+      - 美国() 12
+      - 英国()
+      - 美国() 13
+      - 美国() 14
+      - 美国() 15
+      - 美国() 16
+      - 美国() 17
+      - 法国()
+      - 美国() 18
+      - 美国() 19
+      - 美国() 20
+      - 俄罗斯()
+      - 美国() 21
+      - 美国() 22
+      - 美国() 23
+      - 俄罗斯() 2
+      - 荷兰()
+      - 美国() 24
+      - 美国() 25
+      - 新加坡()
+      - 英国() 2
+      - 美国() 26
+      - 法国() 2
+      - 法国() 3
+      - 美国() 27
+      - 新加坡() 2
+      - 美国() 28
+      - 美国() 29
+      - 美国() 30
+      - 美国() 31
+      - 美国() 32
+      - 法国() 4
+      - 美国() 33
+      - 美国() 34
+      - 美国() 35
+      - 美国() 36
+      - 美国() 37
+      - 美国() 38
+      - 美国() 39
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - 美国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 3
-      - 美国(yudou66.com 玉豆免费节点) 4
-      - 美国(yudou66.com 玉豆免费节点) 5
-      - 美国(yudou66.com 玉豆免费节点) 6
-      - 美国(yudou66.com 玉豆免费节点) 7
-      - 美国(yudou66.com 玉豆免费节点) 8
-      - 美国(yudou66.com 玉豆免费节点) 9
-      - 美国(yudou66.com 玉豆免费节点) 10
-      - 美国(yudou66.com 玉豆免费节点) 11
-      - 美国(yudou66.com 玉豆免费节点) 12
-      - 英国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 13
-      - 美国(yudou66.com 玉豆免费节点) 14
-      - 美国(yudou66.com 玉豆免费节点) 15
-      - 美国(yudou66.com 玉豆免费节点) 16
-      - 美国(yudou66.com 玉豆免费节点) 17
-      - 法国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 18
-      - 美国(yudou66.com 玉豆免费节点) 19
-      - 美国(yudou66.com 玉豆免费节点) 20
-      - 俄罗斯(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 21
-      - 美国(yudou66.com 玉豆免费节点) 22
-      - 美国(yudou66.com 玉豆免费节点) 23
-      - 俄罗斯(yudou66.com 玉豆免费节点) 2
-      - 荷兰(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 24
-      - 美国(yudou66.com 玉豆免费节点) 25
-      - 新加坡(yudou66.com 玉豆免费节点)
-      - 英国(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 26
-      - 法国(yudou66.com 玉豆免费节点) 2
-      - 法国(yudou66.com 玉豆免费节点) 3
-      - 美国(yudou66.com 玉豆免费节点) 27
-      - 新加坡(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 28
-      - 美国(yudou66.com 玉豆免费节点) 29
-      - 美国(yudou66.com 玉豆免费节点) 30
-      - 美国(yudou66.com 玉豆免费节点) 31
-      - 美国(yudou66.com 玉豆免费节点) 32
-      - 法国(yudou66.com 玉豆免费节点) 4
-      - 美国(yudou66.com 玉豆免费节点) 33
-      - 美国(yudou66.com 玉豆免费节点) 34
-      - 美国(yudou66.com 玉豆免费节点) 35
-      - 美国(yudou66.com 玉豆免费节点) 36
-      - 美国(yudou66.com 玉豆免费节点) 37
-      - 美国(yudou66.com 玉豆免费节点) 38
-      - 美国(yudou66.com 玉豆免费节点) 39
+      - 美国()
+      - 美国() 2
+      - 美国() 3
+      - 美国() 4
+      - 美国() 5
+      - 美国() 6
+      - 美国() 7
+      - 美国() 8
+      - 美国() 9
+      - 美国() 10
+      - 美国() 11
+      - 美国() 12
+      - 英国()
+      - 美国() 13
+      - 美国() 14
+      - 美国() 15
+      - 美国() 16
+      - 美国() 17
+      - 法国()
+      - 美国() 18
+      - 美国() 19
+      - 美国() 20
+      - 俄罗斯()
+      - 美国() 21
+      - 美国() 22
+      - 美国() 23
+      - 俄罗斯() 2
+      - 荷兰()
+      - 美国() 24
+      - 美国() 25
+      - 新加坡()
+      - 英国() 2
+      - 美国() 26
+      - 法国() 2
+      - 法国() 3
+      - 美国() 27
+      - 新加坡() 2
+      - 美国() 28
+      - 美国() 29
+      - 美国() 30
+      - 美国() 31
+      - 美国() 32
+      - 法国() 4
+      - 美国() 33
+      - 美国() 34
+      - 美国() 35
+      - 美国() 36
+      - 美国() 37
+      - 美国() 38
+      - 美国() 39
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 美国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 3
-      - 美国(yudou66.com 玉豆免费节点) 4
-      - 美国(yudou66.com 玉豆免费节点) 5
-      - 美国(yudou66.com 玉豆免费节点) 6
-      - 美国(yudou66.com 玉豆免费节点) 7
-      - 美国(yudou66.com 玉豆免费节点) 8
-      - 美国(yudou66.com 玉豆免费节点) 9
-      - 美国(yudou66.com 玉豆免费节点) 10
-      - 美国(yudou66.com 玉豆免费节点) 11
-      - 美国(yudou66.com 玉豆免费节点) 12
-      - 英国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 13
-      - 美国(yudou66.com 玉豆免费节点) 14
-      - 美国(yudou66.com 玉豆免费节点) 15
-      - 美国(yudou66.com 玉豆免费节点) 16
-      - 美国(yudou66.com 玉豆免费节点) 17
-      - 法国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 18
-      - 美国(yudou66.com 玉豆免费节点) 19
-      - 美国(yudou66.com 玉豆免费节点) 20
-      - 俄罗斯(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 21
-      - 美国(yudou66.com 玉豆免费节点) 22
-      - 美国(yudou66.com 玉豆免费节点) 23
-      - 俄罗斯(yudou66.com 玉豆免费节点) 2
-      - 荷兰(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 24
-      - 美国(yudou66.com 玉豆免费节点) 25
-      - 新加坡(yudou66.com 玉豆免费节点)
-      - 英国(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 26
-      - 法国(yudou66.com 玉豆免费节点) 2
-      - 法国(yudou66.com 玉豆免费节点) 3
-      - 美国(yudou66.com 玉豆免费节点) 27
-      - 新加坡(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 28
-      - 美国(yudou66.com 玉豆免费节点) 29
-      - 美国(yudou66.com 玉豆免费节点) 30
-      - 美国(yudou66.com 玉豆免费节点) 31
-      - 美国(yudou66.com 玉豆免费节点) 32
-      - 法国(yudou66.com 玉豆免费节点) 4
-      - 美国(yudou66.com 玉豆免费节点) 33
-      - 美国(yudou66.com 玉豆免费节点) 34
-      - 美国(yudou66.com 玉豆免费节点) 35
-      - 美国(yudou66.com 玉豆免费节点) 36
-      - 美国(yudou66.com 玉豆免费节点) 37
-      - 美国(yudou66.com 玉豆免费节点) 38
-      - 美国(yudou66.com 玉豆免费节点) 39
+      - 美国()
+      - 美国() 2
+      - 美国() 3
+      - 美国() 4
+      - 美国() 5
+      - 美国() 6
+      - 美国() 7
+      - 美国() 8
+      - 美国() 9
+      - 美国() 10
+      - 美国() 11
+      - 美国() 12
+      - 英国()
+      - 美国() 13
+      - 美国() 14
+      - 美国() 15
+      - 美国() 16
+      - 美国() 17
+      - 法国()
+      - 美国() 18
+      - 美国() 19
+      - 美国() 20
+      - 俄罗斯()
+      - 美国() 21
+      - 美国() 22
+      - 美国() 23
+      - 俄罗斯() 2
+      - 荷兰()
+      - 美国() 24
+      - 美国() 25
+      - 新加坡()
+      - 英国() 2
+      - 美国() 26
+      - 法国() 2
+      - 法国() 3
+      - 美国() 27
+      - 新加坡() 2
+      - 美国() 28
+      - 美国() 29
+      - 美国() 30
+      - 美国() 31
+      - 美国() 32
+      - 法国() 4
+      - 美国() 33
+      - 美国() 34
+      - 美国() 35
+      - 美国() 36
+      - 美国() 37
+      - 美国() 38
+      - 美国() 39
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -476,56 +476,56 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 美国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 3
-      - 美国(yudou66.com 玉豆免费节点) 4
-      - 美国(yudou66.com 玉豆免费节点) 5
-      - 美国(yudou66.com 玉豆免费节点) 6
-      - 美国(yudou66.com 玉豆免费节点) 7
-      - 美国(yudou66.com 玉豆免费节点) 8
-      - 美国(yudou66.com 玉豆免费节点) 9
-      - 美国(yudou66.com 玉豆免费节点) 10
-      - 美国(yudou66.com 玉豆免费节点) 11
-      - 美国(yudou66.com 玉豆免费节点) 12
-      - 英国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 13
-      - 美国(yudou66.com 玉豆免费节点) 14
-      - 美国(yudou66.com 玉豆免费节点) 15
-      - 美国(yudou66.com 玉豆免费节点) 16
-      - 美国(yudou66.com 玉豆免费节点) 17
-      - 法国(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 18
-      - 美国(yudou66.com 玉豆免费节点) 19
-      - 美国(yudou66.com 玉豆免费节点) 20
-      - 俄罗斯(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 21
-      - 美国(yudou66.com 玉豆免费节点) 22
-      - 美国(yudou66.com 玉豆免费节点) 23
-      - 俄罗斯(yudou66.com 玉豆免费节点) 2
-      - 荷兰(yudou66.com 玉豆免费节点)
-      - 美国(yudou66.com 玉豆免费节点) 24
-      - 美国(yudou66.com 玉豆免费节点) 25
-      - 新加坡(yudou66.com 玉豆免费节点)
-      - 英国(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 26
-      - 法国(yudou66.com 玉豆免费节点) 2
-      - 法国(yudou66.com 玉豆免费节点) 3
-      - 美国(yudou66.com 玉豆免费节点) 27
-      - 新加坡(yudou66.com 玉豆免费节点) 2
-      - 美国(yudou66.com 玉豆免费节点) 28
-      - 美国(yudou66.com 玉豆免费节点) 29
-      - 美国(yudou66.com 玉豆免费节点) 30
-      - 美国(yudou66.com 玉豆免费节点) 31
-      - 美国(yudou66.com 玉豆免费节点) 32
-      - 法国(yudou66.com 玉豆免费节点) 4
-      - 美国(yudou66.com 玉豆免费节点) 33
-      - 美国(yudou66.com 玉豆免费节点) 34
-      - 美国(yudou66.com 玉豆免费节点) 35
-      - 美国(yudou66.com 玉豆免费节点) 36
-      - 美国(yudou66.com 玉豆免费节点) 37
-      - 美国(yudou66.com 玉豆免费节点) 38
-      - 美国(yudou66.com 玉豆免费节点) 39
+      - 美国()
+      - 美国() 2
+      - 美国() 3
+      - 美国() 4
+      - 美国() 5
+      - 美国() 6
+      - 美国() 7
+      - 美国() 8
+      - 美国() 9
+      - 美国() 10
+      - 美国() 11
+      - 美国() 12
+      - 英国()
+      - 美国() 13
+      - 美国() 14
+      - 美国() 15
+      - 美国() 16
+      - 美国() 17
+      - 法国()
+      - 美国() 18
+      - 美国() 19
+      - 美国() 20
+      - 俄罗斯()
+      - 美国() 21
+      - 美国() 22
+      - 美国() 23
+      - 俄罗斯() 2
+      - 荷兰()
+      - 美国() 24
+      - 美国() 25
+      - 新加坡()
+      - 英国() 2
+      - 美国() 26
+      - 法国() 2
+      - 法国() 3
+      - 美国() 27
+      - 新加坡() 2
+      - 美国() 28
+      - 美国() 29
+      - 美国() 30
+      - 美国() 31
+      - 美国() 32
+      - 法国() 4
+      - 美国() 33
+      - 美国() 34
+      - 美国() 35
+      - 美国() 36
+      - 美国() 37
+      - 美国() 38
+      - 美国() 39
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
