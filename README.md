@@ -1,4 +1,4 @@
-# 5月18日|最高速度18.4M/S，2024最新Shadowrocket/Clash/V2ray/SSR免费节点高速订阅链接  更新时间 2024-05-18 11:12:36
+# 5月19日|最高速度18.4M/S，2024最9 新Shadowrocket/Clash/V2ray/SSR免费节点高速订阅链接  更新时间 2024-05-18 11:12:36
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://nodesharefree.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,21 +9,14 @@
 
 ### Clash订阅链接
 
-- https://nodesharefree.github.io/uploads/2024/05/0-20240518.yaml
-- https://nodesharefree.github.io/uploads/2024/05/1-20240518.yaml
-- https://nodesharefree.github.io/uploads/2024/05/2-20240518.yaml
-- https://nodesharefree.github.io/uploads/2024/05/3-20240518.yaml
-- https://nodesharefree.github.io/uploads/2024/05/4-20240518.yml
+- href="https://nodesharefree.github.io" target="_blank">点击跳转</a>
 
 ### V2ray订阅链接
 
-- https://nodesharefree.github.io/uploads/2024/05/0-20240518.txt
-- https://nodesharefree.github.io/uploads/2024/05/1-20240518.txt
-- https://nodesharefree.github.io/uploads/2024/05/2-20240518.txt
-- https://nodesharefree.github.io/uploads/2024/05/3-20240518.txt
-- https://nodesharefree.github.io/uploads/2024/05/4-20240518.txt
+href="https://nodesharefree.github.io" target="_blank">点击跳转</a>
 
 ## 更多clash节点订阅 ：
+
 
 
 ### 高速机场推荐1【<a href="https://www.fastconnectcloud1.com//#/register?code=VImoLSwr" target="_blank">FCCloud</a>】
