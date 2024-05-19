@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: http://nodesharefree.github.io/sitemap.xml
-Sitemap: http://nodesharefree.github.io/feed.xml
