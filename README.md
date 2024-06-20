@@ -1,4 +1,4 @@
-# 6月19日|最高速度29.4M/S，2024最9 新Shadowrocket/Clash/V2ray/SSR免费节点高速订阅链接  更新时间 2024-05-18 11:12:36
+# 6月20日|最高速度25.3M/S，2024最9 新Shadowrocket/Clash/V2ray/SSR免费节点高速订阅链接  更新时间 2024-05-18 11:12:36
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://clashv2ray-hub.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -21,12 +21,12 @@ href="https://clashv2ray-hub.github.io" target="_blank">点击跳转</a>
 
 ### 高速机场推荐1【<a href="https://www.fastconnectcloud1.com//#/register?code=VImoLSwr" target="_blank">FCCloud</a>】
 
--  202405 有效期至 2024-05-06 下单时输入优惠码后点击验证，价格即会更新，费用低至0.33元/天,无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
+天,无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
 - 网站注册地址：【<a href="https://www.fastconnectcloud1.com//#/register?code=VImoLSwr" target="_blank">EFCloud（点击注册）</a>】
 
 ### 高速机场推荐2【<a href="https://www.easyfastcloud.com/#/register?code=zZbUVKvu" target="_blank">EFCloud</a>】
 
--  202405 有效期至 2024-05-06 下单时输入优惠码后点击验证，价格即会更新，费用低至0.33元/天,无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
+天,无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
 - 网站注册地址：【<a href="https://www.easyfastcloud.com/#/register?code=zZbUVKvu" target="_blank">EFCloud（点击注册）</a>】
 
 
