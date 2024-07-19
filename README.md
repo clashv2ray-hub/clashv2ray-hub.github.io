@@ -17,6 +17,11 @@
 
 ## 更多clash节点订阅 ：
 
+### 高速机场推荐 火烧云
+高速机场推荐 [【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+🌍 奈飞、迪士尼等流媒体解锁 - 畅享国际热门流媒体内容，不受地域限制。 💡 ChatGPT解锁 - 无障碍访问ChatGPT，拓展您的知识和娱乐体验。 🌐 全球10个国家接入 - 全球多点接入，保证连接速度和稳定性。 🛡️ 99.99% SLA 保证 - 高可靠性服务等级协议，确保您的服务稳定可靠。
+
+👉[[点击注册]](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 
 ### 高速机场推荐1【<a href="https://www.fastconnectcloud1.com//#/register?code=VImoLSwr" target="_blank">FCCloud</a>】
