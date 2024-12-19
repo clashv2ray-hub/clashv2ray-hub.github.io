@@ -22,6 +22,33 @@
 
 ## 更多clash节点订阅 ：
 
+### [EF](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
+
+注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
+
+
+试用：无
+
+便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+
+最大的缺点就是太便宜了
+
+* * *
+
+### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+
+注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+
+试用：
+
+最便宜的订阅有6元 60G/月。
+
+便宜是真便宜，9.9 元钱买1个月，每个月 140 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+
+最大的缺点就是太便宜了
+
+* * *
+
 ### [稳连云](https://wl.awcmam.com/#/register?code=tsTYVbC0)
 
 注册链接：[wl.awcmam.com](https://wl.awcmam.com/#/register?code=tsTYVbC0)
