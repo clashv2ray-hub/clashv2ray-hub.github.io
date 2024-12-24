@@ -1,4 +1,4 @@
-# 12月23日|最高速度26.23M/S，2024最新Shadowrocket/Clash/V2ray/SSR免费节点高速订阅链接  
+# 12月24日|最高速度26.24M/S，2024最新Shadowrocket/Clash/V2ray/SSR免费节点高速订阅链接  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://clashv2ray-hub.github.io" target="_blank">点击跳转</a>
 
  [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
@@ -27,8 +27,6 @@
 注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
 
 
-试用：无
-
 便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了
@@ -38,8 +36,6 @@
 ### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
 注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
-
-试用：
 
 最便宜的订阅有6元 60G/月。
 
@@ -53,8 +49,6 @@
 
 注册链接：[wl.awcmam.com](https://wl.awcmam.com/#/register?code=tsTYVbC0)
 
-试用：
-
 最便宜的订阅有5元 1000G/月。
 
 流媒体解锁；支持协议vmess；仅限本人使用；不限制本人设备数；500M 峰值带宽
@@ -64,8 +58,6 @@
 ### [宇宙机场](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
 
 注册链接：[宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
-
-试用：
 
 最便宜的订阅有5元 1000G/月。
 
@@ -78,8 +70,6 @@
 注册链接：[dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)
 
 
-试用：
-
 最便宜的订阅有15.8元 160G/月。
 
 集群负载均衡; 不限速，无审计; 高速专线，极低延迟; 全球独家Hysteria协议; 解锁流媒体及ChatGPT; 不限设备数，全平台通用; 在线客服，远程技术支持;
@@ -89,9 +79,6 @@
 ### [三分机场](https://uk.sanfen.me/register?code=D3AphwEh)
 
 注册链接：[uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh)
-
-
-试用：
 
 最便宜的订阅有5元 5000G/月。
 
@@ -103,9 +90,6 @@
 
 注册链接：[eded.keley02.top](https://eded.keley02.top/#/login?code=TRbo3nMf)
 
-
-试用：
-
 最便宜的订阅有25元 120G/月。
 
 全球10个国家；99.99% SLA保证；1Gbps带宽保证；1个设备终端在线；IEPL 国际专线
@@ -115,9 +99,6 @@
 ### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
 
 注册链接：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
-
-
-试用：
 
 最便宜的订阅有10元 100G/月。
 
