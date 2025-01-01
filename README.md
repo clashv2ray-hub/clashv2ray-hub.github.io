@@ -22,7 +22,7 @@ modified: 2025-1-1T08:21:23+08:00
 
 ### V2ray订阅链接
 
-<a href="https://wwww.yfuye.com" target="_blank">点击跳转</a>
+<a href="https://www.yfuye.com" target="_blank">点击跳转</a>
 
 ## 更多clash节点订阅 ：
 
