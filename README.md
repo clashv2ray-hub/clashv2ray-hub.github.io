@@ -1,8 +1,8 @@
 ---
-created: 2025-1-6T08:05:32+08:00
-modified: 2025-1-6T08:21:23+08:00
+created: 2025-1-7T08:05:32+08:00
+modified: 2025-1-7T08:21:23+08:00
 ---
-# 1月6日|最高速度26.46M/S，2024最新Shadowrocket/Clash/V2ray/SSR免费节点高速订阅链接  
+# 1月7日|最高速度26.32M/S，2024最新Shadowrocket/Clash/V2ray/SSR免费节点高速订阅链接  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://clashv2ray-hub.github.io" target="_blank">点击跳转</a>
 
  [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
@@ -12,7 +12,7 @@ modified: 2025-1-6T08:21:23+08:00
 
 ## clash使用教程：
 
-<a href="https://www.freeclashnode.com/client/" target="_blank">科学上网详细教程</a>
+<a href="https://www.v2raynode.com/site/category/%e5%ae%a2%e6%88%b7%e7%ab%af" target="_blank">科学上网详细教程</a>
 
 ## 订阅链接：
 
