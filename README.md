@@ -1,6 +1,6 @@
 ---
-created: 2025-1-10T08:05:32+08:00
-modified: 2025-1-10T08:21:23+08:00
+created: 2025-1-11T08:05:32+08:00
+modified: 2025-1-11T08:21:23+08:00
 ---
 # 1月10日|最高速度26.89M/S，2024最新Shadowrocket/Clash/V2ray/SSR免费节点高速订阅链接  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://clashv2ray-hub.github.io" target="_blank">点击跳转</a>
@@ -59,16 +59,6 @@ modified: 2025-1-10T08:21:23+08:00
 
 * * *
 
-### [宇宙机场](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
-
-注册链接：[宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
-
-最便宜的订阅有5元 1000G/月。
-
-流媒体解锁；支持协议vmess；仅限本人使用；不限制本人设备数；500M 峰值带宽
-
-* * *
-
 ### [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d)
 
 注册链接：[dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)
@@ -77,16 +67,6 @@ modified: 2025-1-10T08:21:23+08:00
 最便宜的订阅有15.8元 160G/月。
 
 集群负载均衡; 不限速，无审计; 高速专线，极低延迟; 全球独家Hysteria协议; 解锁流媒体及ChatGPT; 不限设备数，全平台通用; 在线客服，远程技术支持;
-
-* * *
-
-### [三分机场](https://uk.sanfen.me/register?code=D3AphwEh)
-
-注册链接：[uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh)
-
-最便宜的订阅有9.9元 80G/月。
-
-全球20+国家和地区的节点 包含100+节点；更高级的流媒体解锁 多地原生ip；速度更快更稳定 适合主力使用；限制5个客户端同时在线
 
 * * *
 
