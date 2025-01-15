@@ -7,24 +7,16 @@
 
 ### Clash订阅链接
 
-- https://clashv2ray-hub.github.io/uploads/2025/01/0-20250115.yaml
-- https://clashv2ray-hub.github.io/uploads/2025/01/1-20250115.yaml
-- https://clashv2ray-hub.github.io/uploads/2025/01/2-20250115.yaml
-- https://clashv2ray-hub.github.io/uploads/2025/01/3-20250115.yaml
-- https://clashv2ray-hub.github.io/uploads/2025/01/4-20250115.yaml
+- https://a.nodeshare.xyz/uploads/2025/1/20250115.yaml
+-
 
 ### V2ray订阅链接
 
-- https://clashv2ray-hub.github.io/uploads/2025/01/0-20250115.txt
-- https://clashv2ray-hub.github.io/uploads/2025/01/1-20250115.txt
-- https://clashv2ray-hub.github.io/uploads/2025/01/2-20250115.txt
-- https://clashv2ray-hub.github.io/uploads/2025/01/3-20250115.txt
-- https://clashv2ray-hub.github.io/uploads/2025/01/4-20250115.txt
-
+- https://a.nodeshare.xyz/uploads/2025/1/20250115.txt
+- 
 ### Sing-box订阅链接
 
-- https://clashv2ray-hub.github.io/uploads/2025/01/20250115.json
-
+- https://a.nodeshare.xyz/uploads/2025/1/20250115.json
 ## 更多clash节点订阅 ：
 
 
