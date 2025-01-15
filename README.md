@@ -1,112 +1,52 @@
----
-created: 2025-1-13T08:05:32+08:00
-modified: 2025-1-13T08:21:23+08:00
----
-# 1月13日|最高速度26.13M/S，2024最新Shadowrocket/Clash/V2ray/SSR免费节点高速订阅链接  
+# 1月15日→20.9M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2025-01-15 09:51:08
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://clashv2ray-hub.github.io" target="_blank">点击跳转</a>
 
- [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
 
-[点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
-
-
-## clash使用教程：
-
-<a href="https://www.v2raynode.com/site/category/%e5%ae%a2%e6%88%b7%e7%ab%af" target="_blank">科学上网详细教程</a>
 
 ## 订阅链接：
 
 ### Clash订阅链接
 
-<a href="https://www.yfuye.com" target="_blank">点击跳转</a>
+- https://clashv2ray-hub.github.io/uploads/2025/01/0-20250115.yaml
+- https://clashv2ray-hub.github.io/uploads/2025/01/1-20250115.yaml
+- https://clashv2ray-hub.github.io/uploads/2025/01/2-20250115.yaml
+- https://clashv2ray-hub.github.io/uploads/2025/01/3-20250115.yaml
+- https://clashv2ray-hub.github.io/uploads/2025/01/4-20250115.yaml
 
 ### V2ray订阅链接
 
-<a href="https://www.yfuye.com" target="_blank">点击跳转</a>
+- https://clashv2ray-hub.github.io/uploads/2025/01/0-20250115.txt
+- https://clashv2ray-hub.github.io/uploads/2025/01/1-20250115.txt
+- https://clashv2ray-hub.github.io/uploads/2025/01/2-20250115.txt
+- https://clashv2ray-hub.github.io/uploads/2025/01/3-20250115.txt
+- https://clashv2ray-hub.github.io/uploads/2025/01/4-20250115.txt
+
+### Sing-box订阅链接
+
+- https://clashv2ray-hub.github.io/uploads/2025/01/20250115.json
 
 ## 更多clash节点订阅 ：
 
-### [EF](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
 
-注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
+### 高速机场推荐1【<a href="https://inv.easyfastcloud.com/#/register?code=Rg3jlrsW" target="_blank">EFCloud</a>】
 
+- 圣诞 元旦 8 折优惠 限时活动-有效期至2025/1/10 23:59，全场 8 折优惠券: 2025，购买订阅时,优惠券填写 2025 并验证,可获得八折优惠。 下单时输入优惠码后点击验证，价格即会更新，费用低至0.33元/天,无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
+- 网站注册地址：【<a href="https://inv.easyfastcloud.com/#/register?code=Rg3jlrsW" target="_blank">EFCloud（点击注册）</a>】
 
-便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+### 高速机场推荐2【<a href="VImhttps://www.fastconnectcloud.net/register?aff=qGNvJ8Oy" target="_blank">FCCloud</a>】
 
-最大的缺点就是太便宜了
+- - 圣诞 元旦 8 折优惠 限时活动-有效期至2025/1/10 23:59，全场 8 折优惠券: 2025，购买订阅时,优惠券填写 2025 并验证,可获得八折优惠。  下单时输入优惠码后点击验证，价格即会更新，费用低至0.33元/天,无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
+- 网站注册地址：【<a href="https://www.fastconnectcloud.net/register?aff=qGNvJ8Oy" target="_blank">FCCloud（点击注册）</a>】
 
-* * *
+### 高速机场推荐3【<a href="https://goudan.site/#/register?code=LQzUg4EU" target="_blank">西游云</a>】
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+- 无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
+- 网站注册地址：【<a href="https://goudan.site/#/register?code=LQzUg4EU" target="_blank">西游云（点击注册）</a>】
 
-注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+### 高速机场推荐4【<a href="https://login.dg5.biz/#/register?code=O3l5SX1q" target="_blank">狗狗加速</a>】
 
-最便宜的订阅有6元 60G/月。
-
-便宜是真便宜，9.9 元钱买1个月，每个月 140 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
-
-最大的缺点就是太便宜了
-
-* * *
-
-### [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
-
-注册链接：[wl.awcmam.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
-
-最便宜的订阅有5元 1000G/月。
-
-流媒体解锁；支持协议vmess；仅限本人使用；不限制本人设备数；500M 峰值带宽
-
-* * *
-
-### [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d)
-
-注册链接：[dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)
-
-
-最便宜的订阅有15.8元 160G/月。
-
-集群负载均衡; 不限速，无审计; 高速专线，极低延迟; 全球独家Hysteria协议; 解锁流媒体及ChatGPT; 不限设备数，全平台通用; 在线客服，远程技术支持;
-
-* * *
-
-### [可乐云](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-注册链接：[eded.keley02.top](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-最便宜的订阅有25元 120G/月。
-
-全球10个国家；99.99% SLA保证；1Gbps带宽保证；1个设备终端在线；IEPL 国际专线
-
-* * *
-
-### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
-
-注册链接：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
-
-最便宜的订阅有10元 100G/月。
-
-最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
-
-* * *
-
-### 高速机场推荐 火烧云
-高速机场推荐 [【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
-🌍 奈飞、迪士尼等流媒体解锁 - 畅享国际热门流媒体内容，不受地域限制。 💡 ChatGPT解锁 - 无障碍访问ChatGPT，拓展您的知识和娱乐体验。 🌐 全球10个国家接入 - 全球多点接入，保证连接速度和稳定性。 🛡️ 99.99% SLA 保证 - 高可靠性服务等级协议，确保您的服务稳定可靠。
-
-👉[[点击注册]](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
-
-
-### 高速机场推荐1【<a href="https://www.fastconnectcloud1.com//#/register?code=qGNvJ8Oy" target="_blank">FCCloud</a>】
-
-天,无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
-- 网站注册地址：【<a href="https://www.fastconnectcloud1.com//#/register?code=qGNvJ8Oy" target="_blank">EFCloud（点击注册）</a>】
-
-### 高速机场推荐2【<a href="https://www.easyfastcloud.com/#/register?code=zZbUVKvu" target="_blank">EFCloud</a>】
-
-天,无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
-- 网站注册地址：【<a href="https://www.easyfastcloud.com/#/register?code=zZbUVKvu" target="_blank">EFCloud（点击注册）</a>】
-
+- 狗狗加速作为第一家上线Hysteria1协议的机场，目前已经全面上线Hysteria2协议；不同于hy1，hy2全面优化了链接速度(0-RTT)，进一步降低延迟；同时使用全新的带宽控制方式；能发挥您带宽的最大潜能！全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
+- 网站注册地址：【<a href="https://login.dg5.biz/#/register?code=O3l5SX1q" target="_blank">狗狗加速（点击注册）</a>】
 
 ## 工具推荐
 
@@ -127,7 +67,8 @@ modified: 2025-1-13T08:21:23+08:00
 | WireGuard    | [WireGuard](https://www.wireguard.com/install/)              | [WireGuard](https://www.wireguard.com/install/)              | [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) |                                                              |                                                     |
 | lantern      | [lantern](https://getlantern.org/)                           | [lantern](https://getlantern.org/)                           | [lantern](https://getlantern.org/)                           |                                                              |                                                     |
 | Tor Browser  | [Tor Browser](https://www.torproject.org/download/)          | [Tor Browser](https://www.torproject.org/download/)          | [Tor Browser](https://www.torproject.org/download/)          |                                                              | [官网](https://www.torproject.org/)                 |
-
+| 无界浏览     | [无界浏览](http://www.wujieliulan.com/news.php)              |                                                              | [无界浏览](http://www.wujieliulan.com/news.php)              |                                                              |                                                     |
+| 自由門       | [自由門](https://git.io/fgp)                                 |                                                              | [自由門](https://git.io/fgma)                                |                                                              |                                                     |
 | 赛风         | [psiphon3](https://psiphon3.com/zh/download.html)            |                                                              | [Psiphon Pro](https://play.google.com/store/apps/details?id=com.psiphon3.subscription) | [Psiphon](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8) | [用户指南](https://psiphon3.com/zh/user-guide.html) |
 
 
