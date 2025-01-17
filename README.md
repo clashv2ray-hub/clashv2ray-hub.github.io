@@ -1,4 +1,4 @@
-# 1月15日→20.9M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2025-01-15 09:51:08
+# 1月17日→20.6M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2025-01-17 09:51:08
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://clashv2ray-hub.github.io" target="_blank">点击跳转</a>
 
 
@@ -7,16 +7,16 @@
 
 ### Clash订阅链接
 
-- https://a.nodeshare.xyz/uploads/2025/1/20250115.yaml
+- https://a.nodeshare.xyz/uploads/2025/1/20250117.yaml
 -
 
 ### V2ray订阅链接
 
-- https://a.nodeshare.xyz/uploads/2025/1/20250115.txt
+- https://a.nodeshare.xyz/uploads/2025/1/20250117.txt
 - 
 ### Sing-box订阅链接
 
-- https://a.nodeshare.xyz/uploads/2025/1/20250115.json
+- https://a.nodeshare.xyz/uploads/2025/1/20250117.json
 ## 更多clash节点订阅 ：
 
 
