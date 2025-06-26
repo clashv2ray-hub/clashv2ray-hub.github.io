@@ -2,7 +2,7 @@
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://clashv2ray-hub.github.io" target="_blank">点击跳转</a>
 
 
-<h3>高速机场推荐<span style="color: #ff0000;">【<a href="javascript:;" class="js_to" data-url="https://88cloud.dpdns.org/#/register?code=" data-type="js" data-code="LSpR3sOK" rel="nofollow noopener" style="color:red;">88云加速</a>】</span></h3>
+<h3>高速机场推荐<span style="color: #ff0000;">【<a href="https://88cloud.dpdns.org/#/register?code=LSpR3sOK" rel="nofollow noopener" style="color:red;">88云加速</a>】</span></h3>
                     <p style="margin-bottom: 20px; padding: 0px; line-height: 1.8; overflow-wrap: break-word; font-size: 15px; color: rgb(96, 98, 102); font-family: &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, STHeiti, &quot;WenQuanYi Micro Hei&quot;, Helvetica, Arial, sans-serif;">无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！
 IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！</p>
 <p style="margin-bottom: 20px; padding: 0px; line-height: 1.8; overflow-wrap: break-word; font-size: 15px; color: rgb(96, 98, 102); font-family: &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, STHeiti, &quot;WenQuanYi Micro Hei&quot;, Helvetica, Arial, sans-serif;">网站注册地址：【<a href="javascript:;" class="js_to" data-url="https://88cloud.dpdns.org/#/register?code=" data-type="js" data-code="LSpR3sOK" rel="nofollow noopener" style="margin: 0px; padding: 0px; color: #ff0000;">88云加速（点击注册）</a>】</p>
