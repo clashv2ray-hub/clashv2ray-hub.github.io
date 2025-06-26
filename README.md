@@ -2,20 +2,30 @@
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://clashv2ray-hub.github.io" target="_blank">点击跳转</a>
 
 
-| 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
-| :------- | :--- | :--- | :--------- | :-------- |
-| [KK加速](#ef) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
-| [flybit](#flybit) | [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
-| [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
-| [加速啦](#%E5%8A%A0%E9%80%9F%E5%95%A6) | [https://jiasu.la/?r=42350](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
-| [快猫](#xxai) | [kuaimao.io](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |季付/半年付/年付送小火箭|
-| [西瓜云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [goudan.site](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
-| [稳连云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [9kqq77hqun.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
-| [KK加速](#ef) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
-| [星链云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [starlinkcloud.cc](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
-| [火烧云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [huoshaoyun.pro](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
-| [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
+<h3>高速机场推荐【<a href="javascript:;" class="js_to" data-url="https://88cloud.dpdns.org/#/register?code=" data-type="js" data-code="LSpR3sOK" rel="nofollow noopener" style="color:red;">88云加速</a>】</h3>
+                    <p style="margin-bottom: 20px; padding: 0px; line-height: 1.8; overflow-wrap: break-word; font-size: 15px; color: rgb(96, 98, 102); font-family: &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, STHeiti, &quot;WenQuanYi Micro Hei&quot;, Helvetica, Arial, sans-serif;">无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！
+IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！</p>
+<p style="margin-bottom: 20px; padding: 0px; line-height: 1.8; overflow-wrap: break-word; font-size: 15px; color: rgb(96, 98, 102); font-family: &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, STHeiti, &quot;WenQuanYi Micro Hei&quot;, Helvetica, Arial, sans-serif;">网站注册地址：【<a href="javascript:;" class="js_to" data-url="https://88cloud.dpdns.org/#/register?code=" data-type="js" data-code="LSpR3sOK" rel="nofollow noopener" style="margin: 0px; padding: 0px; color: #ff0000;">88云加速（点击注册）</a>】</p>
+高速机场推荐3<span style="color: #ff0000;"><a style="color: #ff0000;" href="http://c.xcvpn.me/?path=register&amp;code=jWv0CnPO">【星辰VPN】</a></span>
+无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
 
+网站注册地址：<span style="color: #ff0000;"><a style="color: #ff0000;" href="http://c.xcvpn.me/?path=register&amp;code=jWv0CnPO">【星辰VPN（点击注册）】</a></span>
+<h3>高速机场推荐4<span style="color: #ff0000;">【<a style="color: #ff0000;" href="https://cpdd.one/?r=42354" target="_blank" rel="nofollow noopener">冲上云霄</a>】</span></h3>
+试用：1天 1G
+
+无视高峰，<span style="color: #ff0000;">不限制设备数量</span>，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
+
+网站注册地址：<span style="color: #ff0000;">【<a style="color: #ff0000;" href="https://cpdd.one/?r=42354" target="_blank" rel="nofollow noopener">冲上云霄（点击注册）</a>】</span>
+
+高速机场推荐2<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://cf2.ikuaimao.world/#/register?code=9xg6G0AV">【快猫】</a></span>
+<span style="color: #ff0000;"><strong>季付送小火箭</strong></span>,无视高峰，不限制设备数量，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
+
+网站注册地址：<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://cf2.ikuaimao.world/#/register?code=9xg6G0AV">【快猫（点击注册）】</a></span>
+
+
+<p style="margin-bottom:3rem;color:#999;font-style:italic;">注：跳转链接可能会 <b style="color:red;">被墙</b> ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接</p><h3>高速机场推荐3【<a href="javascript:;" class="js_to" data-url="https://goudan.site/#/register?code=" data-type="西游云" data-code="LQzUg4EU" rel="nofollow noopener" style="color:red;">西游云</a>】</h3><p>无视高峰，<font color="#ff0000">不限制设备数量</font>，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！</p>
+
+<p>网站注册地址：【<a href="javascript:;" class="js_to" data-url="https://goudan.site/#/register?code=" data-type="西游云" data-code="LQzUg4EU" rel="nofollow noopener"><font color="#ff0000">西游云（点击注册）</font></a>】</p>
 ### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
 
 注册链接：[goudan.site](https://goudan.site/#/register?code=LQzUg4EU)
@@ -29,9 +39,9 @@
 
 * * *
 
-### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+### [flybit](https://flybit.best/#/register?code=iV0dLWfT)
 
-注册链接：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+注册链接：[点击注册](https://flybit.best/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
@@ -45,7 +55,7 @@
 
 ### [冲上云霄](#冲上云霄)
 
-注册链接：[cpdd.one](https://cpdd.one/?r=32083)
+注册链接：[点击注册](https://cpdd.one/?r=42354)
 
 试用：1天 1G
 
@@ -55,39 +65,26 @@
 
 * * *
 
-### [KK加速](#ef)
 
-注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-
-试用：无
-
-便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
-
-最大的缺点就是太便宜了
 
 
 ## 订阅链接：
 
 ### Clash订阅链接
 
-- https://a.nodeshare.xyz/uploads/2025/1/20250124.yaml
+- https://a.nodeshare.xyz/uploads/2025/6/20250626.yaml
 -
 
 ### V2ray订阅链接
 
-- https://a.nodeshare.xyz/uploads/2025/1/20250124.txt
+- https://a.nodeshare.xyz/uploads/2025/1/20250626.txt
 - 
 ### Sing-box订阅链接
 
-- https://a.nodeshare.xyz/uploads/2025/1/20250124.json
+- https://a.nodeshare.xyz/uploads/2025/1/20250626.json
 ## 更多clash节点订阅 ：
 
 
-### 高速机场推荐1【<a href="https://kkjiasu.top/#/register?code=lhGhQflc" target="_blank">KK加速Cloud</a>】
-
-无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
-- 网站注册地址：【<a href="https://kkjiasu.top/#/register?code=lhGhQflc" target="_blank">KK加速Cloud（点击注册）</a>】
 
 
 
