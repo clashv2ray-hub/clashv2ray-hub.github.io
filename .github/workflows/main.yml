@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   # 定时触发
   schedule:
-    # 每6小时获取一次
+    # 每12小时获取一次
     - cron: '0 */12 * * *'
 
 jobs:
@@ -20,19 +20,22 @@ jobs:
         run: |
           # 获取当前日期，格式为 YYYY-MM-DD
           current_date=$(date +'%Y-%m-%d')
+          
+          # 使用 sed 替换 README.md 中的日期（顶部）
+          sed -i "1s/更新时间 .*/更新时间 $current_date/" README.md
+          
+          # 输出文件内容以便调试
+          cat README.md
 
-          # 检查 README.md 是否包含创建和修改日期
-          if ! grep -q "# created:" README.md; then
-            echo "# created: $current_date" | cat - README.md > temp && mv temp README.md
-          else
-            # 将日期更新放到文件顶部
-            sed -i "1s/^/# created: $current_date\n/" README.md
-          fi
-
+      - name: Check if README.md is changed
+        run: |
+          git diff README.md
+          
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@users.noreply.github.com'
-          git add README.md
-          git commit -m "Update date in README.md to $current_date"
+          
+          # 检查是否有变动
+          git diff --quiet || git commit -am "Update date in README.md to $current_date"
           git push
