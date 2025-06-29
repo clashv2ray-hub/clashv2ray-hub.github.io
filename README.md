@@ -107,7 +107,7 @@ ChatGPT解锁 - 无障碍访问ChatGPT，拓展您的知识和娱乐体验。
 
 ## 进入下方网站查看订阅链接
 
-**https://clashnodev2ray.github.io/**
+**https://clashv2ray-hub.github.io/**
 
 ## 工具推荐
 
