@@ -33,8 +33,8 @@ jobs:
           
       - name: Commit and push changes
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@users.noreply.github.com'
+          git config --global user.name 'tyfybu'
+          git config --global user.email 'ytfguhs@ydtfygybhu.yum'
           
           # 检查是否有变动
           git diff --quiet || git commit -am "Update date in README.md to $current_date"
