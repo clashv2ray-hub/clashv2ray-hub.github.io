@@ -30,7 +30,7 @@ keywords: Clash,v2ray,V2ray,clash,ss,ssr,trojan,vmess,iOS,Quantumult,Quantumult 
 | [KK加速](https://tg-nav.github.io/nodeshare) | [www.efcloud1.com](https://tg-nav.github.io/nodeshare) |  | 10 元 200G/月 |  |
 
 
-| [星辰vpn](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [t.xcvpn.us](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9.9元 140G/月 |  |
+| [星辰vpn](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [c.xcvpn.me](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [dginv.click](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://flybit.my/#/register?code=iV0dLWfT) | [flybit.my](https://flybit.my/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
 | [冲上云霄](https://cpdd.one/?r=42354) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
