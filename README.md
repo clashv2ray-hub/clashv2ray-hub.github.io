@@ -1,4 +1,4 @@
-##  更新时间 2025-10-29
+##  更新时间 2025-10-30
 
 # 最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 免费节点每日更新
 
@@ -57,9 +57,9 @@
 最大的缺点就是太便宜了
 
 * * *
-### [星辰VPN](https://t.xcvpn.us/#/register?code=jWv0CnPO)
+### [星辰VPN](https://c.xcvpn.me/#/register?code=jWv0CnPO)
 
-注册链接：[点击进入](https://t.xcvpn.us/#/register?code=jWv0CnPO)
+注册链接：[点击进入](https://c.xcvpn.me/#/register?code=jWv0CnPO)
 
 
 
