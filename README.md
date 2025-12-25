@@ -19,7 +19,7 @@
 | [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | | 5元 150G/30天 | ✔支持 |
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西游云](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) | [点击进入](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) |  | 9元 120G/月 |  |
-| [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [点击进入](https://sulian.info/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
+| [冰灵加速](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) | [点击进入](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
 | [火烧云](https://cn2.huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://cn2.huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 ###  高速机场推荐1
 
@@ -44,9 +44,9 @@
 <h3>4. 支持多设备同时使用，无限制，畅连全球！</h3>
 <h3></h3>
 
-### [冰灵加速器](https://sulian.info/#/register?code=3R5DYYrL)
+### [冰灵加速器](https://c1.bingclub.xyz/#/register?code=3R5DYYrL)
 
-注册链接：[点击进入](https://sulian.info/#/register?code=3R5DYYrL)
+注册链接：[点击进入](https://c1.bingclub.xyz/#/register?code=3R5DYYrL)
 
 
 
