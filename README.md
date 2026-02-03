@@ -20,7 +20,6 @@
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西游云](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) | [点击进入](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) |  | 9元 120G/月 |  |
 | [冰灵加速](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) | [点击进入](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
-| [火烧云](https://cn2.huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://cn2.huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 ###  高速机场推荐1
 
 
@@ -79,18 +78,6 @@
 西游云全球节点，，平民价格
 
 注册地址：[【西游云（点击注册）】](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1)
-
-###  高速机场推荐3
-
-[【火烧云】](https://cn2.huoshaoyun.pro/#/register?code=iYoHYy6g)
-
-奈飞、迪士尼等流媒体解锁 - 畅享国际热门流媒体内容，不受地域限制。
-
-💡
-ChatGPT解锁 - 无障碍访问ChatGPT，拓展您的知识和娱乐体验。
-
-
-注册地址：[【火烧云（点击注册）】](https://cn2huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 ### 高速机场推荐4
 
