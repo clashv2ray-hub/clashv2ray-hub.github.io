@@ -1,4 +1,4 @@
-##  更新时间 2026-02-13
+##  更新时间 2026-02-14
 
 # 最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 免费节点每日更新
 
@@ -13,10 +13,8 @@
 | 机场名称 | 地址 |  | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
 | [88云加速](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | 	 | 10元 300G/月 |✔支持  |
-| [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) |  | 5元 150G/30天 | ✔支持 |
 | [星辰vpn](https://c.xcvpn.me/#/register?code=jWv0CnPO) | [点击进入](https://t.xcvpn.us/#/register?code=jWv0CnPO)|  | 9.9元 140G/月 |  |
 | [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) | | 10元 100G/月 | ✔支持 |
-| [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | | 5元 150G/30天 | ✔支持 |
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西游云](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) | [点击进入](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) |  | 9元 120G/月 |  |
 | [冰灵加速](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) | [点击进入](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
