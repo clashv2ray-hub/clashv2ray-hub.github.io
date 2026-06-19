@@ -1,4 +1,4 @@
-##  更新时间 2026-6-18
+##  更新时间 2026-6-19
 # 最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 免费节点每日更新
 
 
@@ -16,7 +16,6 @@
 | [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) | | 10元 100G/月 | ✔支持 |
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西游云](https://c.xiyou666.xyz/?code=2mVFWPT1) | [点击进入](https://c.xiyou666.xyz/?code=2mVFWPT1) |  | 9元 120G/月 |  |
-| [冰灵加速](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) | [点击进入](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
 ###  高速机场推荐1
 
 
