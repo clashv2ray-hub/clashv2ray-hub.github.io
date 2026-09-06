@@ -1,4 +1,4 @@
-##  更新时间 2026-9-5
+##  更新时间 2026-9-6
 # 最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 免费节点每日更新
 
 
@@ -93,7 +93,40 @@
 ## 进入下方网站查看订阅链接
 
 **https://clashv2ray-hub.github.io/**
+***
+### AI中转站推荐
 
+#### 頂級大模型 API一站直達
+
+API中转（AI API 中转服务）是指通过第三方聚合平台，将 OpenAI、Anthropic Claude、Google Gemini 等境外主流大模型接口进行统一封装和转发的服务。
+
+它通常兼容 OpenAI 的 API标准，让开发者或普通用户无需直接连接境外网络、免去 Visa/Mastercard 信用卡门槛，就能以更低的成本或更便捷的方式调用全球顶尖 AI 模型。
+
+
+核心功能与优势一站式接入：通过同一个 API 地址和后台，即可调用 GPT、Claude、Gemini、DeepSeek 等多家模型。
+
+免改代码切换：只需修改请求的 base URL 和 API Key，即可无缝兼容现有 OpenAI SDK 或 Cursor、LobeChat 等客户端工具。
+
+
+降低使用成本：部分中转站采用按量计费，价格相比官方直连往往有不同程度的优惠。国内直连：解决国内直接调用境外大模型 API 时遇到的网络连接和封号等问题。
+
+#### [AI中转站1点击进入1](https://api.xz.wtf/register?aff=AFDGAAXXKP8E)
+
+
+#### [AI中转站2点击进入2]https://ai.arm.moe/register?aff=R69J6YFVKGEU)
+
+
+为什么选择 AI 中转？
+多模型一站式聚合：完美支持 OpenAI (GPT-4o / GPT-3.5)、Claude 3.5 Sonnet、Gemini 等主流商业大模型，一个密钥搞定所有接口，告别多平台注册充值的烦恼。
+
+极速稳定，原生体验：自营服务器集群，三网骨干网直连与 CDN 优化，峰值期依然低延迟、高并发，拒绝长时间转圈与 504 Timeout。
+
+完全原生 API 格式：百分百兼容官方标准请求结构。代码零修改，只需把 base_url 替换为 网站的域名，即可无缝无痛切换。
+
+价格打折，体验不折：省去昂贵的中间商差价，提供极具诚意的按量计费与套餐方案。让个人开发者也能毫无压力地把玩顶级模型。
+
+安全透明，拒绝偷跑：严格保护用户隐私与请求数据，后台实时提供精准的额度消耗账单，消费明明白白，绝无隐形扣费。
+***
 ## 工具推荐
 
 | 工具         | Windows                                                      | MacOS                                                        | Android                                                      | IOS                                                          | 备注                                                |
