@@ -33,7 +33,7 @@ keywords: Clash,v2ray,V2ray,clash,ss,ssr,trojan,vmess,iOS,Quantumult,Quantumult 
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
-| [88云加速](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | 1天2G 	 | 10元 200G/月 | ✔支持 |
+| [88云加速](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK) | 1天2G 	 | 10元 200G/月 | ✔支持 |
 | [星辰vpn](https://t.xcvpn.us/#/register?code=jWv0CnPO) | [点击进入](https://t.xcvpn.us/#/register?code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) | 3G | 9.9元 140G/月 |  |
 | [flybit](https://flybit.my/#/register?code=iV0dLWfT) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
@@ -48,13 +48,13 @@ keywords: Clash,v2ray,V2ray,clash,ss,ssr,trojan,vmess,iOS,Quantumult,Quantumult 
 ***********************
 
 
- [【88云加速】](https://88cloud.pages.dev/#/register?code=n4KLfZJb)
+ [【88云加速】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 试用:1天2G
 解锁奈飞迪士尼
 
-注册地址：[【88云加速（点击注册）】](https://88cloud.pages.dev/#/register?code=n4KLfZJb)
+注册地址：[【88云加速（点击注册）】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
 
 *  *   *
  [【冲上云霄】](https://cpdd.one/?r=42354)
