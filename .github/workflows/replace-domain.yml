@@ -1,0 +1,23 @@
+name: Replace Domain
+
+on:
+  workflow_dispatch: # 允许在 GitHub 后台手动触发
+
+jobs:
+  replace-text:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 替换文本
+        run: |
+          find . -type f -not -path '*/.*' -exec sed -i 's|88cloud.pages.dev|qq.88cloud.dpdns.org|g' {} +
+
+      - name: 提交并推送修改
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-replace domain"
+          branch: main
