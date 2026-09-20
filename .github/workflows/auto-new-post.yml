@@ -27,26 +27,26 @@ jobs:
           import datetime
           import re
 
-          posts_dir = "_posts"
+          posts_dir = "source/_posts"
           if not os.path.exists(posts_dir):
               print(f"Directory {posts_dir} not found.")
               exit(1)
 
           # 获取当天的日期
           today = datetime.date.today()
-          today_str = today.strftime('%Y-%m-%d') # 如果你想保持无补零格式，可以改成下面这样：
-          # 为了适配你的风格，如果今天也是单数字，可以动态生成：
           today_year = today.strftime('%Y')
           today_month_no_zero = str(today.month)
           today_month_zero = today.strftime('%m')
           today_day_no_zero = str(today.day)
           today_day_zero = today.strftime('%d')
           
-          # 根据你的习惯，新文件名日期也支持无补零（如 2026-9-20）
+          # 新文件名及正文统一使用的无补零日期格式 (例如: 2026-9-20)
           today_file_date_str = f"{today_year}-{today_month_no_zero}-{today_day_no_zero}"
+          today_standard_date_str = f"{today_year}-{today_month_zero}-{today_day_zero}"
 
           target_chinese_date = f"{today_year}年{today_month_no_zero}月{today_day_no_zero}日"
-          target_slash_date_1 = f"{today_year}/{today_month_no_zero}/{today_day_no_zero}"
+          target_chinese_date_zero = f"{today_year}年{today_month_zero}月{today_day_zero}日"
+          target_slash_date = f"{today_year}/{today_month_no_zero}/{today_day_no_zero}"
           target_compact_date = f"{today_year}{today_month_zero}{today_day_zero}"
 
           # ----------------- 1. 处理 _posts 目录下的最新文章 -----------------
@@ -55,7 +55,6 @@ jobs:
           valid_files = []
           for file in all_files:
               basename = os.path.basename(file)
-              # 适配 YYYY-M-D 或 YYYY-MM-DD 开头的文件名
               if re.match(r'^\d{4}-\d{1,2}-\d{1,2}', basename):
                   valid_files.append((basename, file))
 
@@ -65,16 +64,20 @@ jobs:
               latest_basename, latest_file = valid_files[0]
               print(f"Latest file found: {latest_file}")
 
-              # 提取旧日期 (支持单/双位数月日)
+              # 提取旧文件名中的日期
               date_match = re.match(r'^(\d{4})-(\d{1,2})-(\d{1,2})', latest_basename)
               old_year, old_month, old_day = date_match.groups()
-              old_date_str = f"{old_year}-{old_month}-{old_day}"
+              old_date_dash_1 = f"{old_year}-{old_month}-{old_day}"
+              old_date_dash_2 = f"{old_year}-{int(old_month):02d}-{int(old_day):02d}"
 
-              if old_date_str == today_file_date_str:
+              if old_date_dash_1 == today_file_date_str or old_date_dash_2 == today_file_date_str:
                   print("The latest post is already dated today. Skipping creation, but will check README.")
               else:
-                  # 生成新文件名并构建路径 (用今天的日期替换旧日期)
-                  new_basename = latest_basename.replace(old_date_str, today_file_date_str, 1)
+                  # 生成新文件名并构建路径
+                  new_basename = latest_basename.replace(old_date_dash_1, today_file_date_str, 1)
+                  if new_basename == latest_basename:
+                      new_basename = latest_basename.replace(old_date_dash_2, today_file_date_str, 1)
+                  
                   new_file = os.path.join(posts_dir, new_basename)
 
                   if os.path.exists(new_file):
@@ -84,25 +87,17 @@ jobs:
                       with open(latest_file, 'r', encoding='utf-8') as f:
                           content = f.read()
 
-                      # 替换短横线日期（支持无补零和有补零的旧格式匹配）
-                      new_content = content.replace(old_date_str, today_file_date_str)
-                      # 顺便兼容标准补零格式替换
-                      standard_old_date = f"{old_year}-{int(old_month):02d}-{int(old_day):02d}"
-                      new_content = new_content.replace(standard_old_date, today_file_date_str)
+                      # 【核心修复】：利用正则表达式全局替换正文里所有形如 2026-9-19 或 2026-09-19 的日期
+                      new_content = re.sub(r'\b20\d{2}-\d{1,2}-\d{1,2}\b', today_file_date_str, content)
 
-                      # 替换中文日期格式
-                      old_month_int = int(old_month)
-                      old_day_int = int(old_day)
-                      chinese_date_patterns = [
-                          f"{old_year}年{old_month_int}月{old_day_int}日",
-                          f"{old_year}年{old_month}月{old_day}日",
-                          f"{old_year}年{old_month_int}月{old_day_int}号",
-                          f"{old_year}年{old_month}月{old_day}号"
-                      ]
+                      # 智能全局替换正文里的各种中文日期格式（如 2026年9月19日、2026年09月19日等）
+                      new_content = re.sub(r'20\d{2}年\d{1,2}月\d{1,2}[日号]', target_chinese_date, new_content)
 
-                      for p in chinese_date_patterns:
-                          if p in new_content:
-                              new_content = new_content.replace(p, target_chinese_date)
+                      # 替换斜杠日期
+                      new_content = re.sub(r'\b20\d{2}/\d{1,2}/\d{1,2}\b', target_slash_date, new_content)
+
+                      # 替换紧凑连写日期
+                      new_content = re.sub(r'\b20\d{2}\d{2}\d{2}\b', target_compact_date, new_content)
 
                       # 写入新文件
                       with open(new_file, 'w', encoding='utf-8') as f:
@@ -117,16 +112,9 @@ jobs:
               with open(readme_path, 'r', encoding='utf-8') as f:
                   readme_content = f.read()
 
-              # A. 替换 YYYY-MM-DD 或 YYYY-M-D
               readme_content = re.sub(r'\b20\d{2}-\d{1,2}-\d{1,2}\b', today_file_date_str, readme_content)
-
-              # B. 替换中文日期 (YYYY年M月D日)
               readme_content = re.sub(r'20\d{2}年\d{1,2}月\d{1,2}[日号]', target_chinese_date, readme_content)
-
-              # C. 替换斜杠日期 (如 2026/9/20)
-              readme_content = re.sub(r'\b20\d{2}/\d{1,2}/\d{1,2}\b', target_slash_date_1, readme_content)
-
-              # D. 替换紧凑无分隔符日期 (如 20260930)
+              readme_content = re.sub(r'\b20\d{2}/\d{1,2}/\d{1,2}\b', target_slash_date, readme_content)
               readme_content = re.sub(r'\b20\d{2}\d{2}\d{2}\b', target_compact_date, readme_content)
 
               with open(readme_path, 'w', encoding='utf-8') as f:
@@ -139,5 +127,5 @@ jobs:
       - name: 提交并推送修改
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: auto-generate post for today and update dates"
+          commit_message: "chore: auto-generate post for today and update dates in content"
           branch: main
