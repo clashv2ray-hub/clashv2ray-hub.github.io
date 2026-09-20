@@ -27,24 +27,26 @@ jobs:
           import datetime
           import re
 
-          posts_dir = "_posts"
+          posts_dir = "source/_posts"
           if not os.path.exists(posts_dir):
               print(f"Directory {posts_dir} not found.")
               exit(1)
 
           # 获取当天的日期
           today = datetime.date.today()
-          today_str = today.strftime('%Y-%m-%d')
+          today_str = today.strftime('%Y-%m-%d') # 如果你想保持无补零格式，可以改成下面这样：
+          # 为了适配你的风格，如果今天也是单数字，可以动态生成：
           today_year = today.strftime('%Y')
           today_month_no_zero = str(today.month)
           today_month_zero = today.strftime('%m')
           today_day_no_zero = str(today.day)
           today_day_zero = today.strftime('%d')
+          
+          # 根据你的习惯，新文件名日期也支持无补零（如 2026-9-20）
+          today_file_date_str = f"{today_year}-{today_month_no_zero}-{today_day_no_zero}"
 
-          # 目标格式定义
           target_chinese_date = f"{today_year}年{today_month_no_zero}月{today_day_no_zero}日"
           target_slash_date_1 = f"{today_year}/{today_month_no_zero}/{today_day_no_zero}"
-          target_slash_date_2 = f"{today_year}/{today_month_zero}/{today_day_zero}"
           target_compact_date = f"{today_year}{today_month_zero}{today_day_zero}"
 
           # ----------------- 1. 处理 _posts 目录下的最新文章 -----------------
@@ -53,7 +55,8 @@ jobs:
           valid_files = []
           for file in all_files:
               basename = os.path.basename(file)
-              if re.match(r'^\d{4}-\d{2}-\d{2}', basename):
+              # 适配 YYYY-M-D 或 YYYY-MM-DD 开头的文件名
+              if re.match(r'^\d{4}-\d{1,2}-\d{1,2}', basename):
                   valid_files.append((basename, file))
 
           if valid_files:
@@ -62,16 +65,16 @@ jobs:
               latest_basename, latest_file = valid_files[0]
               print(f"Latest file found: {latest_file}")
 
-              # 提取旧日期 (YYYY-MM-DD)
-              date_match = re.match(r'^(\d{4})-(\d{2})-(\d{2})', latest_basename)
+              # 提取旧日期 (支持单/双位数月日)
+              date_match = re.match(r'^(\d{4})-(\d{1,2})-(\d{1,2})', latest_basename)
               old_year, old_month, old_day = date_match.groups()
               old_date_str = f"{old_year}-{old_month}-{old_day}"
 
-              if old_date_str == today_str:
+              if old_date_str == today_file_date_str:
                   print("The latest post is already dated today. Skipping creation, but will check README.")
               else:
-                  # 生成新文件名并构建路径
-                  new_basename = latest_basename.replace(old_date_str, today_str, 1)
+                  # 生成新文件名并构建路径 (用今天的日期替换旧日期)
+                  new_basename = latest_basename.replace(old_date_str, today_file_date_str, 1)
                   new_file = os.path.join(posts_dir, new_basename)
 
                   if os.path.exists(new_file):
@@ -81,8 +84,11 @@ jobs:
                       with open(latest_file, 'r', encoding='utf-8') as f:
                           content = f.read()
 
-                      # 替换短横线日期
-                      new_content = content.replace(old_date_str, today_str)
+                      # 替换短横线日期（支持无补零和有补零的旧格式匹配）
+                      new_content = content.replace(old_date_str, today_file_date_str)
+                      # 顺便兼容标准补零格式替换
+                      standard_old_date = f"{old_year}-{int(old_month):02d}-{int(old_day):02d}"
+                      new_content = new_content.replace(standard_old_date, today_file_date_str)
 
                       # 替换中文日期格式
                       old_month_int = int(old_month)
@@ -102,7 +108,7 @@ jobs:
                       with open(new_file, 'w', encoding='utf-8') as f:
                           f.write(new_content)
 
-                      print(f"Successfully created new post: {new_file} with date {today_str}")
+                      print(f"Successfully created new post: {new_file} with date {today_file_date_str}")
 
           # ----------------- 2. 自动更新根目录下的 README.md -----------------
           readme_path = "README.md"
@@ -111,13 +117,13 @@ jobs:
               with open(readme_path, 'r', encoding='utf-8') as f:
                   readme_content = f.read()
 
-              # A. 替换 YYYY-MM-DD
-              readme_content = re.sub(r'\b20\d{2}-\d{2}-\d{2}\b', today_str, readme_content)
+              # A. 替换 YYYY-MM-DD 或 YYYY-M-D
+              readme_content = re.sub(r'\b20\d{2}-\d{1,2}-\d{1,2}\b', today_file_date_str, readme_content)
 
               # B. 替换中文日期 (YYYY年M月D日)
               readme_content = re.sub(r'20\d{2}年\d{1,2}月\d{1,2}[日号]', target_chinese_date, readme_content)
 
-              # C. 替换斜杠日期 (如 2026/9/20 或 2026/09/20)
+              # C. 替换斜杠日期 (如 2026/9/20)
               readme_content = re.sub(r'\b20\d{2}/\d{1,2}/\d{1,2}\b', target_slash_date_1, readme_content)
 
               # D. 替换紧凑无分隔符日期 (如 20260930)
@@ -133,5 +139,5 @@ jobs:
       - name: 提交并推送修改
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: auto-generate post for today and update all date formats in README"
+          commit_message: "chore: auto-generate post for today and update dates"
           branch: main
