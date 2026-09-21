@@ -14,7 +14,7 @@ jobs:
 
       - name: 替换文本
         run: |
-          find . -type f -not -path '*/.*' -exec sed -i 's|88cloud.pages.dev|qq.88cloud.dpdns.org|g' {} +
+          find . -type f -not -path '*/.*' -exec sed -i 's|www.xiyou666.xyz|d.xiyou666.xyz|g' {} +
 
       - name: 提交并推送修改
         uses: stefanzweifel/git-auto-commit-action@v5
