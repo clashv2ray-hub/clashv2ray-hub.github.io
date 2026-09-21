@@ -28,7 +28,7 @@ jobs:
           import re
           import random
 
-          posts_dir = "source/_posts"
+          posts_dir = "_posts"
           if not os.path.exists(posts_dir):
               print(f"Directory {posts_dir} not found.")
               exit(1)
