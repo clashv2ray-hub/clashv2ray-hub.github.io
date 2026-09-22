@@ -3,7 +3,7 @@ name: Auto Create Today Post & Update README
 on:
   workflow_dispatch: # 允许在 GitHub 后台手动触发
   schedule:
-    - cron: '32 0 * * *' # 
+    - cron: '0 */24 * * *' # 
 
 jobs:
   create-post:
