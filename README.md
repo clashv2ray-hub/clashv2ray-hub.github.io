@@ -10,7 +10,7 @@
 
 | 机场名称 | 地址 |  | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
-| [88云加速](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb) | [点击进入](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb) | 	 | 10元 200G/月 |✔支持  |
+| [88云加速](https://www.8891888.xyz/#/register?code=n4KLfZJb) | [点击进入](https://www.8891888.xyz/#/register?code=n4KLfZJb) | 	 | 10元 200G/月 |✔支持  |
 | [星辰vpn](https://c.kilxs.cn/#/register?code=jWv0CnPO) | [点击进入](https://c.kilxs.cn/#/register?code=jWv0CnPO)|  | 9.9元 140G/月 |  |
 | [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) | | 10元 100G/月 | ✔支持 |
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
@@ -18,7 +18,7 @@
 ###  高速机场推荐1
 
 
- ### [【88云加速】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
+ ### [【88云加速】](https://www.8891888.xyz/#/register?code=n4KLfZJb)
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
@@ -26,7 +26,7 @@
 
 解锁奈飞迪士尼
 
-### 注册地址：[【88云加速（点击注册）】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
+### 注册地址：[【88云加速（点击注册）】](https://www.8891888.xyz/#/register?code=n4KLfZJb)
 
 *  *   *
 <h3></h3>
