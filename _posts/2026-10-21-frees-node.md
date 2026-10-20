@@ -5,7 +5,6 @@ tags:  [Clash,V2ray,clash,ss,ssr,trojan,vmess,免费节点,翻墙必备,免费�
 description:  10月21日 SSR,clash节点,v2ray节点,每日更新,Shadowrocket,免费节点,高速机场推荐
 keywords: Clash,v2ray,V2ray,clash,ss,ssr,trojan,vmess,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果,小火箭,订阅链接,高速免费节点,翻墙必备,免费节点,科学上网, 
 ---
-
 * content
 {:toc}
 
@@ -16,7 +15,7 @@ keywords: Clash,v2ray,V2ray,clash,ss,ssr,trojan,vmess,iOS,Quantumult,Quantumult 
  
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
-本次更新共153个可用节点，最高速度12.2M/S。
+本次更新共151个可用节点，最高速度12.3M/S。
 
 覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本、东南亚、中东、南美等多个区域。
 
